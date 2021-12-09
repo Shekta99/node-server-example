@@ -1,0 +1,17 @@
+{
+  "name": "servidores",
+  "version": "1.0.0",
+  "description": "mi servidor",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
